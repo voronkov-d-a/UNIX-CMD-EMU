@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Visual Studio
+*.pyproj
+*.slnx
+.vs/
+*.user
+*.suo
